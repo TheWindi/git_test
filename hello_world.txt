@@ -1,0 +1,4 @@
+Hello World,
+
+I am coming here via the Odin Project.
+Programmers seem to be very friendly towards the world, hence the international convention to greet it.
